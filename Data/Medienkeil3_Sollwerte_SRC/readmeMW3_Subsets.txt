@@ -1,0 +1,1 @@
+Fogra, www.Fogra.orgFebruary 2012FOGRA28 to FOGRA50These characterization data contain the 72 Ugra/Fogra MediaWedge V.3 tone value patches to be a valid subset of ISO 12642.
